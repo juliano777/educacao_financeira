@@ -101,3 +101,100 @@ diversificando fontes de renda e investindo em negócios relacionados.
 
 Organização do orçamento
 
+Fazer o levantamento de todo dinheiro que saiu no mês anterior e dividir em categorias.
+
+- Educação;
+- Saúde;
+- Transporte;
+- Lazer;
+- Compras;
+- Contas recorrentes.
+
+Essa organização pode ser feita manualmente anotando em papel, planilha eletrônica ou algum aplicativo de celular.
+Tendo em mão o controle de todos os gastos é possível ver onde algo pode ser cortado para, logicamente, poupar dinheiro.
+
+
+Assim que a renda entrar na conta
+
+1) Retirar um percentual de poupança e investir;
+2) Pagar as contas rotineiras;
+3) Passar o mês com o restante do dinheiro.
+
+
+Método PPP - evitando gastar desnecessariamente
+
+- Preciso? -> Fazer uma análise a respeito da necessidade da compra;
+- Posso? -> Verificar se haverá um comprometimento danoso ao orçamento;
+- Pesquisei? -> Pesquisar outros lugares / fornecedores para comparar preços ou mesmo estudar alternativas.
+
+
+Compra de imóvel ou automóvel
+
+Imóvel próprio
+- Segurança e estabilidade;
+- Pode personalizar e deixar do seu jeito;
+- Proteção patrimonial;
+- Potencial de valorização.
+
+Imóvel alugado
+- Mobilidade física e financeira;
+- Sem custos de transação;
+- Sem custos de manutenção.
+
+Financiamento
+
+Amortização
+
+É poder quitar um financiamento antecipadamente, assim pagando menos juros.
+Pode-se amortizar pelo prazo ou por prestação, sendo que amortizar por prazo é mais interessante, pois a economia no pagamento de
+juros é maior.
+
+Sistema de Amortização Constante - SAC
+
+Parcelas: As parcelas mensais são decrescentes, com o valor da amortização (parte da parcela que reduz o valor do empréstimo)
+sendo constante e os juros diminuindo ao longo do tempo.
+
+Vantagens:
+
+    Custo total do financiamento tende a ser menor, pois a amortização constante reduz o saldo devedor mais rapidamente.
+    Juros pagos diminuem ao longo do tempo. 
+
+Desvantagens:
+
+    As parcelas iniciais são mais altas
+
+Tabela Price
+
+    As parcelas são fixas ao longo do tempo.
+    No início, a maior parte da parcela paga é de juros, e a amortização do principal é menor.
+    A amortização cresce conforme o saldo devedor diminui.
+    Ideal para quem precisa de previsibilidade no valor das parcelas.
+
+Exemplo Price:
+
+Se a dívida é de R$ 10.000,00 com 10 parcelas, todas terão o mesmo valor, mas no início os juros são maiores e a amortização menor.    
+
+SAC vs Price
+
++-----------------+-----+-------+
+| Característica  | SAC | PRICE |
++-----------------+-----+-------+
+| Parcelas       | Dec | Fixas |
+| Amortização    | Constante | Crescente |
+| Juros pagos    | Menores ao longo do tempo | Maiores no início |
+| Total pago     | Menor | Maior |
+| Indicado para  | Quem pode pagar mais no início | Quem prefere parcelas fixas |
++-----------------+-----+-------+
+
+Se o objetivo for pagar menos juros, SAC é mais vantajoso. Se for previsibilidade no orçamento, Price pode ser melhor.
+
+
+Uso correto do cartão de crédito
+
+A forma como alguém usa um cartão de crédito determina se ele vai ser um aliado ou um vilão das finanças pessoais.
+Se alguém usa o cartão de crédito indiscriminadamente, sem levar o controle de orçamento ou ainda isso leva a uma situação
+ainda pior, que é a impossibilidade de pagar integralmente a fatura que leva a utilizar o crédito rotativo, cujos juros
+são altíssimos.
+Por outro lado, se os gastos no cartão de crédito forem feitos sem exageros e claro, não cair no crédito rotativo, será de
+grande utilidade através dos benefícios oferecidos dependendo do banco, operadora e categoria do cartão.
+
