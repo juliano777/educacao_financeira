@@ -424,5 +424,6 @@ Cálculo da rentabilidade real:
 
 Juro real = ((((1 + (juro nominal / 100)) / (1 + (Inflação / 100))) -1)) x 100
 
+
 Renda fixa
 
