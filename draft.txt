@@ -198,3 +198,225 @@ são altíssimos.
 Por outro lado, se os gastos no cartão de crédito forem feitos sem exageros e claro, não cair no crédito rotativo, será de
 grande utilidade através dos benefícios oferecidos dependendo do banco, operadora e categoria do cartão.
 
+Banco Central
+
+É a instituição responsável por regular o sistema financeiro de um país, controlando a oferta de moeda, a inflação, as taxas de juros e a estabilidade econômica. Ele também supervisiona bancos e outras instituições financeiras para garantir o funcionamento seguro do mercado.
+Principais funções do Banco Central:
+
+✅ Política monetária – Define taxas de juros e controla a inflação.
+✅ Emissão de moeda – Garante a estabilidade da moeda nacional.
+✅ Regulação bancária – Supervisiona bancos e financeiras.
+✅ Reservas cambiais – Administra as reservas internacionais do país.
+
+Site oficial:
+
+Cada país tem seu próprio Banco Central. Se você se refere ao Banco Central do Brasil, o site oficial é:
+https://www.bcb.gov.br
+
+
+CVM - Comissão de Valores Mobiliários
+
+É a autarquia responsável por regulamentar, fiscalizar e desenvolver o mercado de valores mobiliários no Brasil.
+Seu principal objetivo é garantir a transparência, a eficiência e a segurança das operações financeiras, protegendo os
+investidores e assegurando o bom funcionamento do mercado.
+
+Site oficial: https://www.gov.br/cvm/pt-br
+
+Principais funções da CVM
+
+1. Fiscalização – Supervisiona empresas listadas na bolsa, corretoras, gestoras de fundos e outros agentes do mercado.
+2. Regulamentação – Define normas para o mercado de capitais, como regras para emissão de ações e fundos de investimento.
+3. Proteção ao investidor – Atua contra fraudes, manipulações e práticas ilegais que possam prejudicar investidores.
+4. Fomento ao mercado – Incentiva o desenvolvimento do mercado de capitais no Brasil.
+
+A CVM tem um papel semelhante ao da SEC (Securities and Exchange Commission)(https://www.sec.gov/) nos Estados Unidos.
+Ela é vinculada ao Ministério da Fazenda (https://www.gov.br/fazenda/pt-br), mas tem autonomia administrativa e financeira.
+
+
+Endividamento
+
+É sempre bom lembrar que os juros pagos são muito maiores do que os recebidos em um investimento.
+Em caso de existência de dívidas deve-se organizá-las, classificando-as de acordo com prioridades.
+
+1) Serviços essenciais: energia elétrica, água, gás e internet.
+2) Dívidas associadas a um bem: financiamento de imóvel ou automóvel.
+3) Outras: cheque especial, cartão de crédito, empréstimo pessoal, empréstimo consignado.
+
+Dívidas com maiores juros por ordem decrescente:
+
+1º Cheque especial;
+2º Cartão de crédito;
+3º Empréstimo pessoal;
+4º Empréstimo consignado.
+
+De posse dessas informações acaba sendo vantajoso trocar uma dívida maior por uma menor. Por exemplo; se uma pessoa
+tem uma dívida no cheque especial pode-se tentar um empréstimo consignado para saldá-la.
+
+
+Por que investir?
+
+Investir é uma necessidade, pois é necessário proteger o dinheiro da inflação e gerar renda passiva.
+
+Golpes e armadilhas financeiras
+
+Pirâmide financeira
+
+São esquemas fraudulentos onde o lucro dos participantes vem exclusivamente de recrutamento de novos membros e não da venda legítima de
+produtos ou serviços.
+Esse tipo de esquema é insustentável, porque em algum momento ficará impossível recrutar pessoas suficientes para manter os pagamentos.
+O que culmina com o colapso da pirâmide e prejuízo para a maioria dos envolvidos.
+
+Forex, opções binárias, day trade e criptomoedas
+
+Forex e opções binárias não são regulamentadas no Brasil. Evitar!
+Day trade somente bancos registrados no Banco Central e na CVM.
+Criptomoedas há formas corretas de investir, então deve-se evitar origens obscuras.
+
+Forex
+
+Forex (abreviação de foreign exchange, ou mercado de câmbio) é o mercado global descentralizado para a negociação de moedas.
+Nele, investidores, bancos, empresas e governos compram e vendem moedas estrangeiras, buscando lucro com as variações das taxas de câmbio.
+
+Características principais do Forex:
+
+- Alavancagem: permite operar com valores maiores do que o capital disponível.
+- Liquidez: é um dos mercados mais líquidos do mundo, movimentando trilhões de dólares diariamente.
+- Horário de funcionamento: opera 24 horas por dia, de domingo à noite até sexta-feira à noite.
+- Pares de moedas: as negociações ocorrem em pares, como EUR/USD (Euro/Dólar), GBP/JPY (Libra/Iene), etc.
+
+Os traders especulam sobre as variações cambiais para obter lucro, usando estratégias técnicas e fundamentais.
+No entanto, o mercado de Forex envolve riscos significativos e pode resultar em grandes perdas para investidores despreparados.
+
+Opções binárias
+
+Tipo de investimento de alto risco onde o trader aposta se o preço de um ativo (como uma moeda, ação ou commodity) subirá ou cairá dentro de um prazo determinado. É chamado de "binário" porque só há dois resultados possíveis:
+
+    Ganha um retorno fixo (se a previsão estiver correta).
+    Perde todo o valor investido (se a previsão estiver errada).
+
+Como funciona?
+
+    O trader escolhe um ativo (ex: EUR/USD).
+    Define um prazo (pode ser segundos, minutos ou horas).
+    Escolhe se o preço vai subir (CALL) ou cair (PUT).
+    Se acertar, recebe um lucro fixo (exemplo: 70% sobre o valor apostado). Se errar, perde tudo.
+
+Problemas e riscos:
+
+    Alta manipulação: Muitas plataformas são fraudulentas e manipulam preços.
+    Sem controle regulatório forte: Diferente de Forex ou ações, é um mercado pouco regulado.
+    Risco extremo: É mais um jogo de azar do que um investimento real.
+
+Por esses motivos, opções binárias são proibidas ou fortemente regulamentadas em muitos países,
+incluindo a União Europeia e os Estados Unidos. Se está pensando em investir, é bom tomar muito cuidado. 🚨
+
+Day trade
+
+stilo de negociação no qual o trader compra e vende ativos no mesmo dia, buscando lucro com pequenas variações de preço. Esse tipo de operação pode ser feito em mercados como ações, Forex, criptomoedas e derivativos.
+Características do Day Trade:
+
+✅ Curto prazo: Todas as operações são fechadas no mesmo dia.
+✅ Alavancagem: Muitos traders utilizam capital emprestado para aumentar os ganhos (mas isso também aumenta os riscos).
+✅ Alto volume de operações: É comum realizar várias operações diárias.
+✅ Uso de análise técnica: Traders analisam gráficos e indicadores para tomar decisões rápidas.
+
+Riscos do Day Trade:
+
+⚠️ Alta volatilidade: Movimentos rápidos podem gerar grandes perdas.
+⚠️ Custo com taxas: Corretoras cobram taxas que podem reduzir os lucros.
+⚠️ Forte impacto emocional: Exige controle emocional e disciplina para evitar decisões impulsivas.
+⚠️ Dificuldade de lucro consistente: A maioria dos traders amadores perde dinheiro no longo prazo.
+Day Trade vs. Investimento Tradicional:
+
+Enquanto o investidor foca no longo prazo (comprando ações de boas empresas para segurar por anos), o day trader busca ganhos rápidos com pequenas oscilações diárias de preço.
+
+Se estiver pensando em fazer day trade, vale a pena estudar bem e começar com valores pequenos, já que o risco de perda é muito alto. 🚀📉
+
+Criptomoedas
+
+São ativos digitais que utilizam criptografia para garantir transações seguras e controlar a criação de novas unidades. Diferente do dinheiro tradicional (fiat), elas são descentralizadas, ou seja, não são controladas por governos ou bancos centrais.
+Características das criptomoedas:
+
+✅ Descentralização – Funcionam em redes blockchain, sem uma autoridade central.
+✅ Segurança – Utilizam criptografia avançada para evitar fraudes.
+✅ Transparência – Todas as transações ficam registradas publicamente na blockchain.
+✅ Volatilidade – O preço pode variar muito em curtos períodos.
+Principais criptomoedas:
+
+    Bitcoin (BTC) – A primeira e mais conhecida, considerada o "ouro digital".
+    Ethereum (ETH) – Permite contratos inteligentes e aplicativos descentralizados.
+    Binance Coin (BNB) – Criada pela Binance, uma das maiores exchanges.
+    XRP (XRP) – Usada para transações rápidas entre bancos.
+    Stablecoins (USDT, USDC, DAI) – Atreladas ao dólar para evitar volatilidade.
+
+Como comprar e usar?
+
+    A compra é feita em exchanges (Binance, Coinbase, Kraken etc.).
+    Podem ser armazenadas em carteiras digitais (wallets).
+    São usadas para pagamentos, investimentos e contratos inteligentes.
+
+Criptomoedas oferecem oportunidades de ganho, mas também riscos, como volatilidade extrema e golpes.
+Sempre estude antes de investir! 🚀💰
+
+
+Falsos investimentos
+
+São produtos / serviços vendidos dando a entender serem investimentos, porém os mesmos não geram dinheiro.
+
+Exemplos: consórcio e título de capitalização.
+
+Risco Brasil
+
+É um indicador que mede a confiança dos investidores internacionais na economia do Brasil.
+Ele reflete a percepção de risco do país em relação ao pagamento de suas dívidas e estabilidade econômica.
+
+Como funciona?
+
+O principal indicador do Risco Brasil é o EMBI+ (Emerging Markets Bond Index Plus), calculado pelo banco JP Morgan.
+Ele mede a diferença (spread) entre os juros dos títulos da dívida brasileira e os títulos do Tesouro dos EUA 
+(considerados os mais seguros do mundo).
+Se o risco aumenta, os investidores exigem juros maiores para emprestar dinheiro ao Brasil.
+
+O que influencia o Risco Brasil?
+
+📉 Instabilidade política e econômica – Crises e incertezas aumentam o risco.
+📈 Dívida pública alta – Quanto maior a dívida, maior a preocupação dos investidores.
+📉 Taxas de juros globais – Se os EUA aumentam os juros, o risco de países emergentes sobe.
+📈 Crescimento do PIB – Uma economia forte reduz o risco percebido.
+
+Impactos do Risco Brasil:
+
+Se o Risco Brasil sobe, os juros aumentam, o crédito fica mais caro e há menos investimentos.
+Se o Risco Brasil cai, o país atrai mais investimentos e a economia cresce.
+
+Proteção patrimonial
+
+No mercado financeiro há os 3 (três) grandes riscos que são associados ao dinheiro investido:
+
+- Inflação;
+- Volatilidade da renda variável;
+- Risco Brasil.
+
+Comprar imóveis é uma maneira de proteger desses riscos, pois a longo prazo tendem a acompanhar
+a inflação, não tem flutuação de preço e de certa forma também é uma proteção contra o risco Brasil,
+porque a priori o governo não pode simplesmente confiscar um imóvel, ao contrário do que já acontece
+com investimentos.
+Fazer seguros, sejam eles de automóveis, imóveis ou de vida podem ser de grande utilidade para proteger
+patrimônio.
+De forma similar ter um plano de saúde evita que em uma emergência seja necessário pagar muito caro, o
+que em determinados casos pode até comprometer o patrimônio conquistado.
+
+
+Inflação e rentabilidade
+
+Inflação é a perda do poder de compra da moeda.
+Rentabilidade bruta nominal: é a rentabilidade antes do desconto dos impostos, taxas e da inflação.
+Rentabilidade líquida nominal: é a rentabilidade após o desconto dos impostos e taxas, mas sem considerar a inflação.
+Rentabilidade líquida real: é a rentabilidade após o desconto dos impostos, taxas e inflação.
+
+Cálculo da rentabilidade real:
+
+Juro real = ((((1 + (juro nominal / 100)) / (1 + (Inflação / 100))) -1)) x 100
+
+Renda fixa
+
