@@ -4,13 +4,13 @@ Os 3 pilares  da liberdade financeira
 2) Poupar, ou seja, não gastar tudo o que ganha;
 3) Investir; algo que renda mais do que a inflação para evitar desvalorização do dinheiro, o que significa perder dinheiro.
 
-
-      ---> Ganhar  ----
-      |               |
-      |               |
-      |               v
-    Investir <----  Poupar
-
+           ⇨
+         Ganhar
+        /      \
+    ⇧  /        \  ⇩ 
+      /          \
+Investir ————— Poupar
+           ⇦
 
 Escravidão financeira
 
