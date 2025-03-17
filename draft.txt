@@ -416,6 +416,10 @@ que em determinados casos pode até comprometer o patrimônio conquistado.
 Inflação e rentabilidade
 
 Inflação é a perda do poder de compra da moeda.
+Inflação é o nome dado ao aumento dos preços de produtos e serviços. Ela é
+calculada pelos índices de preços, comumente chamados de índices de inflação.
+O IBGE produz dois dos mais importantes índices de preços: o IPCA, considerado
+o oficial pelo governo federal, e o INPC.
 Rentabilidade bruta nominal: é a rentabilidade antes do desconto dos impostos, taxas e da inflação.
 Rentabilidade líquida nominal: é a rentabilidade após o desconto dos impostos e taxas, mas sem considerar a inflação.
 Rentabilidade líquida real: é a rentabilidade após o desconto dos impostos, taxas e inflação.
@@ -423,6 +427,125 @@ Rentabilidade líquida real: é a rentabilidade após o desconto dos impostos, t
 Cálculo da rentabilidade real:
 
 Juro real = ((((1 + (juro nominal / 100)) / (1 + (Inflação / 100))) -1)) x 100
+
+
+Indicadores econômicos
+
+Entender os indicadores econômicos como Selic, IPCA e CDI é fundamental para
+quem deseja tomar decisões financeiras mais conscientes e investir de forma
+estratégica.
+
+Selic
+
+A taxa Selic (Sistema Especial de Liquidação e de Custódia) é a taxa básica de
+juros da economia brasileira, definida pelo Comitê de Política Monetária
+(Copom) (https://www.bcb.gov.br/publicacoes/atascopom) do Banco Central.
+Ela influencia todas as outras taxas de juros do país, como as de empréstimos,
+financiamentos e investimentos. 
+Quando a Selic sobe, o objetivo é conter a inflação, tornando o crédito mais
+caro e incentivando a poupança.
+Quando a Selic cai, o objetivo é estimular a economia, tornando o crédito mais
+barato e incentivando o consumo e o investimento.
+
+IPCA
+
+O IPCA (Índice Nacional de Preços ao Consumidor Amplo) é o principal indicador
+da inflação no Brasil, medindo a variação dos preços de bens e serviços
+consumidos pelas famílias brasileiras.
+Ele é calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE)
+e reflete o custo de vida da população.
+O IPCA é importante para entender o poder de compra da moeda e para ajustar
+contratos e salários.
+
+https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html
+https://www.ibge.gov.br/explica/inflacao.php
+
+Entender os indicadores econômicos como Selic, IPCA e CDI é fundamental para
+quem deseja tomar decisões financeiras mais conscientes e investir de forma
+estratégica.
+
+INPC - Índice Nacional de Preços ao Consumidor
+
+É outro importante indicador da inflação no Brasil, calculado pelo IBGE
+(Instituto Brasileiro de Geografia e Estatística). Embora semelhante ao IPCA,
+ele possui algumas diferenças importantes:
+
+Principais diferenças entre INPC e IPCA:
+
+- Público-alvo:
+  - O INPC mede a variação dos preços para famílias com renda mensal de 1 a 5
+    salários mínimos.
+  - O IPCA abrange famílias com renda mensal de 1 a 40 salários mínimos.
+
+- Objetivo:
+  - O INPC busca refletir o custo de vida das famílias de baixa renda, que são
+    mais sensíveis às variações de preços de produtos essenciais, como
+    alimentos e habitação.
+
+  - O IPCA tem um escopo maior.
+
+- Utilização:
+  - O INPC é frequentemente utilizado como referência para reajustes
+    salariais, especialmente em negociações coletivas de categorias de
+    trabalhadores de menor renda.
+  - O IPCA é o índice oficial da inflação do país.
+
+Em resumo:
+
+Ambos os índices medem a inflação, mas o INPC foca nas famílias de menor
+renda, enquanto o IPCA tem um alcance mais amplo.
+O INPC é crucial para acompanhar o impacto da inflação no poder de compra das
+famílias de baixa renda e para orientar reajustes salariais.
+
+Para acompanhar os dados do INPC, você pode consultar o site do IBGE:
+
+    IBGE: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9258-indice-nacional-de-precos-ao-consumidor.html
+
+Selic
+
+A taxa Selic (Sistema Especial de Liquidação e de Custódia) é a taxa básica
+de juros da economia brasileira, definida pelo Comitê de Política Monetária
+(Copom) do Banco Central.
+Ela influencia todas as outras taxas de juros do país, como as de empréstimos,
+financiamentos e investimentos.   
+Quando a Selic sobe, o objetivo é conter a inflação, tornando o crédito mais
+caro e incentivando a poupança.
+Quando a Selic cai, o objetivo é estimular a economia, tornando o crédito mais
+barato e incentivando o consumo e o investimento.
+
+https://www.bcb.gov.br/controleinflacao/taxaselic
+
+CDI - Certificado de Depósito Interbancário
+
+É a taxa de juros utilizada nas transações entre bancos.
+Ele acompanha de perto a taxa Selic e é utilizado como referência para
+diversos investimentos de renda fixa, como CDBs, LCIs e LCAs.
+O CDI representa a taxa média que os bancos cobram uns dos outros ao realizar
+empréstimos de curto prazo.
+
+https://brasilindicadores.com.br/cdi
+
+
+Relação entre os indicadores
+
+A Selic é a principal ferramenta do Banco Central para controlar a inflação,
+medida pelo IPCA.
+O CDI acompanha a Selic e é utilizado como referência para investimentos de
+renda fixa.
+Para investir, é essencial considerar os três indicadores. Por exemplo, se a
+Selic estiver alta, investimentos atrelados ao CDI podem ser mais rentáveis.
+Já se o IPCA estiver alto, investimentos atrelados a ele podem proteger o
+dinheiro da inflação.
+
+Onde acompanhar os indicadores
+
+Para acompanhar os indicadores, você pode consultar sites como o do Banco
+Central do Brasil, do IBGE e da B3.
+Segue abaixo alguns links que podem ser úteis:
+
+Banco Central do Brasil: https://www.bcb.gov.br/
+IBGE: https://www.ibge.gov.br/
+Anbima: https://www.anbima.com.br/pt_br/informar/tabela-de-indicadores.htm
 
 
 Renda fixa
