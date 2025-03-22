@@ -550,3 +550,38 @@ Anbima: https://www.anbima.com.br/pt_br/informar/tabela-de-indicadores.htm
 
 Renda fixa
 
+São investimentos cuja fórmula de cálculo de rentabilidade é pré definida.
+
+Exemplos:
+
+- Poupança;
+- Tesouro direto;
+- CDB;
+- LCI;
+- LCA;
+- Debêntures;
+- Contas remuneradas;
+- Fundos de renda fixa.
+
+Tipos de investim de renda fixa
+
+Pós fixados
+A renda final só vai ser conhecida no final do investimento.
+Sua remuneração é atrelada a um índice econômico, por exemplo CDBs que pagam
+um determinado percentual do CDI. Pois não se sabe quanto vai ser o CDI no
+futuro.
+
+Pré fixados
+A remuneração é baseada em uma taxa de juros pré fixada no momento em que o
+investimento é feito.
+
+Híbridos
+Como o próprio nome sugere tem características dos dois anteriores.
+
+
+Renda variável
+
+
+Perfil de investidor
+
+
