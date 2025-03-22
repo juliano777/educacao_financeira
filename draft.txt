@@ -548,35 +548,135 @@ IBGE: https://www.ibge.gov.br/
 Anbima: https://www.anbima.com.br/pt_br/informar/tabela-de-indicadores.htm
 
 
+Fundos
+
+São uma forma de investimento coletivo em que várias pessoas aplicam dinheiro
+em um portfólio gerido por um gestor profissional. O patrimônio do fundo é
+dividido em cotas, e cada investidor possui uma quantidade proporcional ao
+valor investido.
+
+Como funciona um fundo?
+
+  Gestor – Profissional responsável por escolher os ativos do fundo.
+
+  Administradora – Cuida da parte burocrática e operacional.
+
+  Regulamento – Define as regras, estratégia e riscos do fundo.
+
+  Taxas – Pode haver taxa de administração e, em alguns casos, taxa de
+  performance.
+
+Tipos principais de fundos:
+
+  Fundos de Renda Fixa – Investem em títulos de renda fixa (Tesouro Direto,
+  CDBs, LCIs etc.).
+
+  Fundos de Ações – Aplicam a maior parte do capital em ações da bolsa de
+  valores.
+
+  Fundos Multimercado – Misturam ativos de diferentes classes (renda fixa,
+  ações, câmbio etc.).
+
+  Fundos Imobiliários (FIIs) – Investem em imóveis ou ativos do setor
+  imobiliário, pagando rendimentos periódicos.
+
+
+Títulos
+
+São instrumentos financeiros que representam um empréstimo de dinheiro para uma
+entidade (governo, banco ou empresa) em troca de uma remuneração futura. Eles
+funcionam como um "papel" que comprova a dívida e o compromisso de pagamento.
+
+Podem ser divididos em três categorias principais:
+
+- Títulos Públicos
+  Emitidos pelo governo para financiar suas atividades.
+  Exemplo: Tesouro Direto.
+
+- Títulos Bancários
+  Emitidos por bancos para captar dinheiro.
+  Exemplos: CDB, LCI e LCA.
+
+- Títulos Corporativos
+  Emitidos por empresas privadas. Exemplo: Debêntures.
+
+Em resumo, investir em um título significa emprestar dinheiro para uma
+entidade e receber um retorno conforme as condições acordadas.
+
+
 Renda fixa
 
 São investimentos cuja fórmula de cálculo de rentabilidade é pré definida.
 
 Exemplos:
 
-- Poupança;
-- Tesouro direto;
-- CDB;
-- LCI;
-- LCA;
-- Debêntures;
-- Contas remuneradas;
-- Fundos de renda fixa.
+- Poupança
+  Conta bancária com rendimento mensal atrelado à Selic. Isenta de IR, mas com
+  baixa rentabilidade.
 
-Tipos de investim de renda fixa
+- Tesouro Direto
+  Títulos públicos emitidos pelo governo, com opções pós-fixadas (Selic),
+  prefixadas ou atreladas à inflação. Tributação regressiva de IR.
+
+- CDB (Certificado de Depósito Bancário)
+  Título emitido por bancos para captar dinheiro. Pode ter rentabilidade
+  prefixada, pós-fixada ou híbrida. Coberto pelo FGC até R$ 250 mil.
+
+- LCI (Letra de Crédito Imobiliário)
+  Título emitido por bancos para financiar o setor imobiliário. Rendimento
+  pode ser prefixado ou pós-fixado. Isento de IR para pessoa física e coberto
+  pelo FGC.
+
+- LCA (Letra de Crédito do Agronegócio)
+  Semelhante à LCI, mas voltada ao agronegócio. Também isenta de IR e
+  protegida pelo FGC.
+
+- Debêntures
+  Títulos de dívida emitidos por empresas para captação de recursos. Maior
+  risco que CDBs, mas podem ter rendimento atrativo. Algumas são incentivadas
+  (isentas de IR).
+
+- Contas remuneradas
+  Contas bancárias que oferecem rendimento diário sobre o saldo disponível,
+  geralmente atreladas ao CDI. Liquidez imediata, mas pode ter IR.
+
+- Fundos de renda fixa
+  Fundos que investem em ativos de renda fixa, como títulos públicos e
+  privados. Tributação regressiva e taxa de administração podem impactar o
+  rendimento.
+
+Tipos de remuneração de investimentos de renda fixa
 
 Pós fixados
 A renda final só vai ser conhecida no final do investimento.
-Sua remuneração é atrelada a um índice econômico, por exemplo CDBs que pagam
-um determinado percentual do CDI. Pois não se sabe quanto vai ser o CDI no
-futuro.
+Seu rendimento varia / é atrelado conforme um índice econômico (ex: Selic ou
+CDI), por exemplo CDBs que pagam um determinado percentual do CDI. Pois não se
+sabe quanto vai ser o CDI no futuro.
 
-Pré fixados
+Prefixados
 A remuneração é baseada em uma taxa de juros pré fixada no momento em que o
 investimento é feito.
+Sabe-se exatamente quanto vai receber no vencimento.
 
 Híbridos
 Como o próprio nome sugere tem características dos dois anteriores.
+Parte fixa + parte variável (geralmente atrelada à inflação, como IPCA).
+
+FGC (Fundo Garantidor de Créditos)
+
+É uma entidade que protege investidores em caso de falência ou insolvência de
+instituições financeiras. Ele garante a devolução do dinheiro aplicado em
+determinados produtos financeiros até o limite de R$ 250 mil por CPF e por
+instituição, com um teto global de R$ 1 milhão a cada quatro anos.
+
+Investimentos cobertos pelo FGC: CDB, LCI, LCA, RDB, conta corrente e
+poupança.
+
+Investimentos não cobertos pelo FGC: Tesouro Direto (garantido pelo governo),
+debêntures, fundos de investimento e ações.
+
+Ou seja, o FGC atua como um "seguro" para determinados investimentos,
+oferecendo mais segurança para o investidor.
 
 
 Renda variável
