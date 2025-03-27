@@ -681,6 +681,50 @@ oferecendo mais segurança para o investidor.
 
 Renda variável
 
+É um tipo de investimento em que a rentabilidade não é previsível, pois
+depende de fatores de mercado, como oferta e demanda, economia e política.
+Diferente da renda fixa, não há garantia de retorno, mas há potencial para
+ganhos maiores.
+Investimentos de renda variável são muito mais arriscados do que os de renda
+fixa.
+A longo prazo, 10, 15 ou 25 anos a renda variável costuma ser mais
+interessante (mais rentável) do que a renda fixa.
+Investimentos de renda variável não têm garantia do FGC.
+
+Principais tipos de investimentos em renda variável:
+
+- Ações
+  Representam uma fração do capital de uma empresa negociada na bolsa de
+  valores.
+  Os investidores podem lucrar com a valorização dos papéis e com
+  dividendos distribuídos pela empresa.
+
+- ETFs (Exchange Traded Funds)
+  Fundos de investimento que replicam o desempenho de um índice, como o
+  Ibovespa. São negociados em bolsa como se fossem ações.
+
+- FIIs (Fundos de Investimentos Imobiliários)
+  Investem em imóveis ou em ativos do setor imobiliário. Pagam rendimentos
+  periódicos e podem ter valorização das cotas.
+
+- BDRs (Brazilian Depositary Receipts)
+  Certificados que representam ações de empresas estrangeiras, permitindo que
+  investidores brasileiros tenham exposição a esses ativos sem precisar
+  comprar ações no exterior.
+
+- Dólar
+  Moeda americana utilizada como reserva de valor e proteção contra a
+  desvalorização do real. Pode ser negociado no mercado financeiro por meio de
+  contratos futuros e fundos cambiais.
+
+- Ouro
+  Ativo considerado uma reserva de valor e um hedge contra crises. Pode ser
+  comprado fisicamente, via contratos futuros ou ETFs lastreados no metal.
+
+- Fundos de renda variável
+  Investem majoritariamente em ativos de renda variável, como ações e
+  derivativos. São gerenciados por profissionais e oferecem diversificação e
+  gestão ativa.
 
 Perfil de investidor
 
