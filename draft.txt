@@ -428,6 +428,36 @@ Cálculo da rentabilidade real:
 
 Juro real = ((((1 + (juro nominal / 100)) / (1 + (Inflação / 100))) -1)) x 100
 
+Carência
+
+É o período mínimo que o investidor deve esperar antes de poder resgatar seu
+dinheiro sem penalidades. Durante esse tempo, o investimento fica "preso" e
+não pode ser retirado, ou pode ser retirado com custos adicionais.
+
+Exemplos:
+
+  - CDB com carência de 6 meses: o dinheiro só pode ser resgatado após esse
+    período.
+
+  - Fundos de investimento podem ter prazos de carência antes do primeiro
+    resgate.
+
+Liquidez
+
+É a facilidade e rapidez com que um investimento pode ser convertido em
+dinheiro sem perder valor significativo. Quanto maior a liquidez, mais rápido
+e fácil é o resgate.
+
+Exemplos:
+
+- Alta liquidez: Tesouro Selic e contas remuneradas, que permitem saque
+  rápido.
+
+- Baixa liquidez: Imóveis e CDBs com vencimento longo, que demoram para serem
+  vendidos ou resgatados.
+
+A carência afeta a liquidez, pois investimentos com período de carência tendem
+a ter menor liquidez até que esse prazo termine.
 
 Indicadores econômicos
 
@@ -760,3 +790,59 @@ fixa como em renda valorização.
 Seus investimentos de renda variável tem uma porcentagem significativa podendo
 ser igual ou até mesmo ser maior do que a parte de investimentos de renda
 fixa.
+
+
+Montando a carteira de investimentos
+
+Ao montar a sua carteira tenha em mente o seu perfil de investidor.
+Não copie a carteira de outra pessoa, pois cada pessoa tem suas
+particularidades e o que dá certo para uma pessoa pode não dar certo para
+outra.
+O fator conhecimento direciona o investidor aos tipos de investimentos que
+mais poderão proporcionar rentabilidade levando em conta os riscos e como
+lidar com eles.
+Quanto maior a idade do investidor deve-se investir menos em renda variável e
+mais em renda fixa. Pessoas mais jovens têm mais tempo para se recuperar de
+quedas no mercado de ações, então podem correr mais riscos. Já pessoas mais
+velhas, especialmente aposentados ou próximos da aposentadoria, precisam de
+mais estabilidade financeira e liquidez para cobrir despesas diárias, tornando
+a renda fixa mais atraente. Um jovem que perde dinheiro na bolsa pode
+compensar isso trabalhando e investindo mais ao longo dos anos. Para um
+aposentado, que não tem mais renda ativa ou está em um período de menor
+capacidade de trabalho, uma grande perda em renda variável pode ser
+catastrófica. A renda variável pode ter grandes oscilações no curto prazo, o
+que pode ser arriscado para quem depende desse dinheiro no futuro próximo. Já
+a renda fixa oferece previsibilidade, tornando-se uma opção mais segura para
+quem precisa de estabilidade.
+
+Regra dos 80
+
+80 - idade = percentual ideal de renda variável
+
+Por exemplo, uma pessoa que tem 44 anos:
+
+80 - 44 = 36
+
+Então para essa pessoa é aconselhável que ela direcione para renda variável
+até 36%.
+
+Objetivos financeiros de curto, médio e longo prazos devem ser levados em
+conta para montar a carteira de investimentos. Esses objetivos devem ser
+claros, por exemplo, alguém que pretende trocar de carro daqui a 2 anos. Esse
+objetivo é de médio prazo e está claro e então a partir dele traçar o plano
+para poder atingí-lo. Se a pessoa almeja uma aposentadoria, que é um objetivo
+de longo prazo, deve-se verificar se os atuais investimentos serão capazes de 
+atingir esse objetivo.
+É interessante começar por um fundo de emergência e depois partir para outros
+investimentos de renda fixa, bem como ativos de proteção com o dólar e outros
+investimentos no exterior para reduzir o risco Brasil.
+
+Passos para investir
+
+- Reserva de emergência e de oportunidade
+
+- Outros investimentos de renda fixa
+
+- Investimentos de renda variável
+
+- Investimentos no exterior
