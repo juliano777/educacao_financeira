@@ -442,6 +442,16 @@ Exemplos:
   - Fundos de investimento podem ter prazos de carência antes do primeiro
     resgate.
 
+Vencimento
+
+É a data final do investimento, quando ele encerra e o valor investido (mais
+juros) é devolvido automaticamente.
+Após o vencimento, o investimento acaba – ele não “continua rendendo” (em
+produtos de prazo fixo).
+
+Exemplo: um CDB com vencimento em 2 anos. Após esse prazo, o banco paga o
+montante total.
+
 Liquidez
 
 É a facilidade e rapidez com que um investimento pode ser convertido em
@@ -837,12 +847,148 @@ atingir esse objetivo.
 investimentos de renda fixa, bem como ativos de proteção com o dólar e outros
 investimentos no exterior para reduzir o risco Brasil.
 
+
+B3
+
+A B3 (estilizado como [B]³ em referência às letras iniciais de Brasil, Bolsa,
+Balcão) é uma bolsa de valores brasileira sediada na cidade de São Paulo.
+Funciona de forma autorregulada sob a supervisão da Comissão de Valores
+Mobiliários (CVM) e seu indicador de referência é o Ibovespa. 
+
+https://www.b3.com.br
+
+
+Open Finance
+
+O Open Finance ou Sistema Financeiro Aberto é uma iniciativa do Banco Central
+do Brasil que tem como principais objetivos trazer inovação ao sistema
+financeiro, promover a concorrência, e melhorar a oferta de produtos e
+serviços financeiros para você, consumidor.
+Você, pessoa física ou jurídica, é quem decidirá quando e com quem deseja
+compartilhar seus dados. O Open Finance assegura a padronização do
+compartilhamento de dados e serviços.
+
+https://openfinancebrasil.org.br/
+https://www.bcb.gov.br/estabilidadefinanceira/openfinance
+
+
 Passos para investir
 
 - Reserva de emergência e de oportunidade
 
+  - O que é?
+  Uma reserva de emergência é um fundo financeiro destinado a cobrir despesas
+  inesperadas, garantindo segurança e evitando endividamento.
+  Essa reserva de emergência deve ser composta de investimentos de renda fixa,
+  conservadores e que tenham liquidez diária. Ou seja, esse dinheiro tem que
+  poder ser resgatado em um momento de necessidade. 
+  Segurança e liquidez diária são imprescindíveis.
+  É importante também diversificar.
+
+  - Quanto?
+  Para determinar o valor ideal de uma reserva de emergência é preciso antes
+  de mais nada saber quanto é gasto mensalmente. Então a partir disso ter esse
+  valor multiplicado por 6 ou 12.
+  É prudente também ter uma margem de segurança, que dentre outras coisas
+  cubra a inflação, 10% é uma boa margem para isso.
+
+  Por exemplo, alguém cujos gastos mensais sejam de R$ 5.000,00, então:
+
+  Valor de reserva de emergência = Gastos mensais x meses x margem de segurança
+  Valor de reserva de emergência = 5.000 x 6 x 1,1
+
+  Nota-se que a margem de segurança de 1,1 significa um acréscimo de 10%.
+
+  Neste caso a pessoa deve ter ums reserva de reserva de emergência de
+  R$ 33.000,00.
+
+  A respeito de considerar 6 ou 12 meses depende do tipo de trabalho, a
+  probabilidade de ficar desempregado e o grau de dificuldade de recolocação.
+  Para empresários ou profissionais liberais 12 meses é mais adequado.
+
+  - Tipos de investimentos para fundo de emergência
+
+    - Contas remunderadas
+      São contas bancárias que rendem juros sobre o saldo depositado.
+      Funcionam como uma mescla de conta corrente e investimento.
+      Oferecem liquidez e investimento, geralmente atrelando-se a índices como
+      CDI ou Selic.
+      São uma opção para guardar dinheiro com algum retorno sem abrir mão do
+      acesso rápido para resgate.
+      Exemplos: 99Pay, PagBank, PicPay, NuBank.
+      Um ponto negativo desse tipo de conta é geralmente não poder contar com
+      a proteção do FGC.
+
+    - Tesouro Selic
+      É um título público federal de renda fixa atrelado à taxa Selic.
+      É considerado um investimento seguro por ser garantido pelo governo.
+      Sua rentabilidade acompanha a rentabilidade da Selic, tornando-o ideal
+      para reserva de emergência, pois tem alta liquidez e baixo risco.
+      É um dos títulos do Tesouro Direto (https://www.tesourodireto.com.br/).
+      Sua liquidez é D + 0, ou seja, têm-se o dinheiro no mesmo dia que
+      solicitou o resgate desde que seja um dia útil. Caso contrário, o
+      resgate só será efetivado no próximo dia útil.
+
+    - CDBs com liquidez diária
+      São investimentos de renda fixa emitidos por bancos e rendem juros 
+      diariamente.
+      Assim como no Tesouro Selic, seu resgate só pode ser feito em dias
+      úteis.
+      É um tipo seguro de investimento, tem cobertura do FGC em até R$ 250 mil
+      e a rentabilidade costuma ser atrelada ao CDI.
+
+    - Fundos DI
+      São fundos de renda fixa que investem majoritariamente em título
+      atrelados ao CDI oou à Selic.
+      Sua liquidez é diária, porém somente em dias úteis.
+      Deve-se atentar a esse tipo de investimento, pois há alguns que cobram
+      taxa de administração, o que pode inviabilizar uma boa rentabilidade.
+
+    - LFTS11
+      É um ETF negociado na B3 que busca replicar o desempenho de títulos
+      públicos atrelados à Selic.
+      Lançado em novembro de 2022 pela gestora Investo (https://www.investoetf.com/),
+      o fundo investe em Letras Financeiras do Tesouro (LFTs) com vencimentos
+      superiores a dois anos visando acompanhar de perto o índice DI.
+      Sua liquidez é D + 1.
+      É indicado para investidores que buscam exposição à taxa Selic com a
+      praticidade da negociação da bolsa, combinando características de renda
+      fixa com a flexibilidade dos fundos de índice.
+
+      https://borainvestir.b3.com.br/cotacoes/etfs/LFTS11/
+
+- Reserva de emergência como oportunidade
+  Uma reserva de emergência bem planejada também pode funcionar como uma
+  reserva de oportunidade, permitindo aproveitar boas chances de investimentos
+  sem comprometer a segurança fincanceira.
+  Uma compra de um imóvel é um exemplo de uso como oportunidade.
+
 - Outros investimentos de renda fixa
+  São investimentos sem liquidez diária, com prazos de vencimentos a médio e
+  longo prazo, porém com uma rentabilidade maior.
+  Nesse tipo de investimentos até é possível resgatar antes do prazo, porém
+  isso pode levar a perda de ganho ou mesmo prejuízo.
+  Exemplos:
+  - Tesouro IPCA+;
+  - Tesouro prefixado;
+  - CDBs sem liquidez diária;
+  - LCI / LCA;
+  - Fundos de renda fixa;
+  - Debêntures
 
 - Investimentos de renda variável
+  São investimento cujo retorno não é previsível.
+  Os preços variam conforme o mercado, oferecendo maior potencial de lucro,
+  porém com muito mais risco.
+  Exemplos:
+  - ETFs;
+  - Fundos imobiliários;
+  - Dólar;
+  - Ouro;
+  - Ações
 
 - Investimentos no exterior
+  Investir no exterior é muito bom para evitar o risco Brasil.
+  É preciso abrir conta em uma corretora estrangeira direcionada ao público
+  brasileiro como a Nomad (https://www.nomadglobal.com/) e a Avenue (https://avenue.us).
+  É também uma forma de proteger o patrimônio.
