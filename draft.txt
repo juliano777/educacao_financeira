@@ -992,3 +992,105 @@ Passos para investir
   É preciso abrir conta em uma corretora estrangeira direcionada ao público
   brasileiro como a Nomad (https://www.nomadglobal.com/) e a Avenue (https://avenue.us).
   É também uma forma de proteger o patrimônio.
+
+Como acompanhar os investimentos
+
+A priori pode-se acompanhar os investimentos pelo próprio portal, banco ou
+corretora do mesmo, onde ele foi feito ou para aqueles que têm o selo B3
+certifica (https://www.b3.com.br/pt_br/b3/qualificacao-e-governanca/certificacoes/certifica/)
+podem ser acompanhados no portal da B3 (https://www.b3.com.br/).
+De forma mais rudimentar também é possível através de planilhas eletrônicas.
+Há ainda empresas que oferecem como serviço gerenciamento de investimentos via
+um portal ou aplicativo. Por exemplo; Trademap (https://trademap.com.br/) e Kinvo (https://kinvo.com.br).
+Esse serviço oferecido por esse tipo de empresa atualmente é mais seguro e
+possível através do recurso Open Finance / Open Banking (https://openfinancebrasil.org.br/),
+o qual permite troca de informações entre instituições financeiras.
+
+Renda fixa
+
+O que é
+
+É um tipo de investimento cujo cálculo da rentabilidade é conhecido.
+Ex.: Poupança, CDB, LCI / LCA, contas remuneradas, Tesouro Direto, debêntures,
+fundos de renda fixa.
+
+Riscos
+
+Risco de crédito
+
+É a probabilidade de o ente que o dinheiro foi emprestado quebrare  então não
+devolver o dinheiro.
+
+Risco de mercado
+
+Quando condições econômicas mudam e prejudicam o investimento.
+
+Risco de liquidez
+
+Ao pedir resgate não haver compradores.
+
+Tipos 
+
+Pós-fixados
+Prefixados
+Híbridos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  -------------------------------caderno------------------
+
+  FGC 
+
+  Poupança
+
+  Contas remuneradas
+  - Tipos de contas remuneradas
+  - Impostos
+
+CDB
+- O que é
+- Liquidez
+- Pós-fixado
+- Prefixado
+- Híbrido
+- Riscos
+- Como investir
+- Impostos
+
+LCI, LCA e LCD
+- O que é
+- Carência
+- Recebimento
+- Tipos
+- Garantias
+- Como investir
+- Taxas e impostos
+
+
