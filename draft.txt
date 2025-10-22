@@ -1086,16 +1086,68 @@ Juros e rentabilidade
 
 Juros
 
+Componente que só existe na renda fixa (juros compostos).
+É a remuneração do dinheiro no tempo.
+Podemos também definir juros cmoo a remuneração pelo uso de dinheiro empresttado ou investido, representando o custo do
+crédito ou rendimento de aplicações financeiras.
+
+Juros simples
+
+Seu cálculo baseia-se apenas sobre o valor inicial.
+
+M = P . i . n
+M = Montante final
+P = Capital inicial (principal)
+i = Taxa de juros (em forma decimal)
 
 
+Juros compostos
+
+Seu cálculo é sobre o valor inicial e sobre os juros acumulados em períodos anteriores, ou seja, juros sobre juros.
+
+Ex.: 
+Investimento de R$ 1.000,00
+Juros anuais = 10%
+
+M = P . (1 + i) ^ n
+M = Montante final
+P = Capital inicial (principal)
+i = Taxa de juros (em forma decimal)
+
+1º ano = R$ 1.000,00 + 10% = R$ 1.100,00
+2º ano = R$ 1.100,00 + 10% = R$ 1.210,00
+3º ano = R$ 1.210,00 + 10% = R$ 1.331,00
+
+M = 1000 (1 + 0,1) ^ 3
+M = 1000 1,331 = 1.331
+
+Rentabilidade
+
+Como obter a rentabilidade real de um investimento?
 
 
+Obter na sequência:
+  - Rentabilidade bruta nominal (RBN);
+  - Rentabilidade líquida nominal (RLN);
+  - Rentabilidade líquida real (RLR).
 
+Rentabilidade bruta nominal
 
+É o retorno total de investimento. *antes* de descontar os impostos, taxas ou inflação.
+Mostra quanto o dinheiro rendeu nominalmente.
 
+Rentabilidade líquida nominal
 
+E o retorno de investimento *após* descontar impostos e taxas, mas sem considerar a inflação.
+Mostra quanto efetivamente foi ganho em termos nominais.
 
+Rentabilidade líquida real
 
+É a rentabilidade líquida ajustada pela inflação.
+Mostra o ganho efetivo do poder de compra após considerar impostos, taxas e a perda do valor do
+dinheiro ao longo do tempo.
+
+Cálculo de rentabilidade
 
 
 
