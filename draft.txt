@@ -1149,6 +1149,33 @@ dinheiro ao longo do tempo.
 
 Cálculo de rentabilidade
 
+Caso I
+
+Um investimento CDB, 110% do CDI pelo prazo de 1 ano.
+Considerando o CDI a 3,4%, impostos 17,5% e inflação anual 5%.
+
+CDI: 3,4% = 0,034
+Inflação anual: 5% = 0,05
+Impostos: 17,5% = 0,175
+
+RBN (110% do CDI)
+RBN = Inflação anual . %CDI 
+RBN = 0,034 . 1,1 = 0,0374 = 3,74%
+
+RLN
+RLN = RBN . (1 - Impostos)
+RLN = 0,034 . (1 - 0,175) = 0,034 . 0,825 = 0,03855 = 3,855%
+
+RLR
+RLR = RLN . (1 - Inflação)
+RLR = 0,03855 . (1 - 0,05) = 0,03855 . 0,95 = 0,02931225 = 2,931225%
+
+Caso II 
+
+
+
+
+
 
 
 
