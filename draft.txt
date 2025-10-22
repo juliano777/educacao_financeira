@@ -1035,10 +1035,56 @@ Pós-fixados
 Prefixados
 Híbridos
 
+Selic, CDI e IPCA
 
+Selic
 
+É a taxa que é utilizada pelo BC para regular a economia do Brasil.
+Em períodos de atividade econômica intensa, de crescimento, há uma tendência de inflação alta. Então nesse
+cenário, o BC, por meio do COPOM (Comitê de Política Monetária) aumenta a taxa Selic, deixando assim empréstimos
+mais caros, porém investimentos de renda fixa passam a render mais.
+O aumento da taxa Selic ajuda a diminuir a inflação.
+O inverso tambem é verdadeiro, ou seja, com baixa atividade econômica a taxa Selic também é reduzida para reaquecer
+a economia, mas os investimentos baseados nela terão menor rentabilidade.
+A taxa Selic é definida a cada 45 dias pelo COPOM (taxa Selic meta).
+Na prárica, no mercado financeiro usa-se a taxa Selic over, que normalmente é abaixo da Selic meta. A taxa Selic
+over é mais importante para o investidor.
 
+CDI - Certificado de Depósito Interbancário
 
+O CDI gera a taxa DI.
+Normalmente equivale à taxa Selic over.
+É um título emitido por instituições financeiras para emprestarem dinheiro entre si, garantindo que o caixa finalize
+o dia com saldo positivo. é um título de empréstimo de curtíssimo prazo entre bancos.
+A taxa CDI é referência para calcular a rentabilidade anual de vários tipos de investimentos.
+O cálculo é feito pela CETIP (Central de Custódia e Liquidação de Títulos Privados).
+A divulgação é feita diariamente.
+Serve de benchmark para investimentos de renda fixa, como CDBs, LCIs, LCAs e fundos de investimentos.
+A taxa CDI é influenciada pelas condições econômicas e decisões do BC, refletindo a liquidez e a confiança no
+sistema bancário. É um importante indicador econômico e pode afetar a política monetária.
+
+IPCA - Índice Nacional de Preços ao Consumidor Amplo
+
+É o principal indicador de inflação no Brasil, calculado pelo IBGE. Ele mede a variação de preços de uma cesta de bens e
+serviços consumidos pelas famílias com renda de 1 a 40 salários mínimos, residentes nas principais regiões metropolitanas
+do país.
+O IPCA serve como referência para o governo definir metas de inflação e para o BC ajustar a taxa de juros (Selic).
+Mostra a perda do poder de compra da moeda ao longo do tempo.
+Ao se fazer um investimento, o mesmo deve ter uma rentabilidade superior ao IPCA. Devemos sempre nos precaver contra o
+IPCA.
+O IPCA é também um balisador para alguns investimentos de renda fixa (Tesouro Direto IPCA, por exemplo).
+
+IGP-M - Índice Geral de Preços de Mercado
+
+É um dos principais indicadores de inflação do Brasil, calculado mensalmente pelo Instituto Brasileiro de Economia. (IBRE)
+da Fundação Getúlio Vargas (FGV).
+O IGP-M mede a variação de preços desde matérias-primas até produtos e serviços ao consumidor.
+Anteriormente era o principal índice utilizado para reajustes de aluguel, porém devido a oscilações fortes e atípicas, nos
+últimos anos os contratos passaram a utilizar o IPCA.
+
+Juros e rentabilidade
+
+Juros
 
 
 
