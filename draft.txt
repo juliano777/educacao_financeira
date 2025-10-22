@@ -1185,6 +1185,40 @@ RLN = RBN . (1 - Impostos) = 0,07 . (1 = 0,175) = 0,07 . 0,825 = 0,05775 = 5,775
 Aqui nãohá necessidade de calcular o RLR, pois a inflação já foi considerada.
 
 
+LCI, LCA e LCD
+
+LCI - Letra de Crédito Imobiliário
+
+Como funciona
+
+Ao investir em uma LCI é na verdade um empréstimo ao banco para que ele financie  atividades imobiliárias.
+Em contrapartida o banco paga juros depois de um período determinado, ou em alguns casos periodicamente.
+Ao final do prazo é recebido o valor aplicado + rendimentos.
+
+Tipos de rentabilidade
+
+- Pós-fixada: atrelada ao CDI (ex.: 97% do CDI);
+- Prefixada: com taxa fixa (ex.: 10% ao ano);
+- Híbrida: combina taxa fixa + índice de inflação (ex.: IPCA + 5% ao ano)
+
+Vantagens
+
+- Para pessoas físicas tem isençãode imposto de renda;
+- Segurança, por ser garantida pelo FGC;
+- É considerada uma boa alternativa para diversificar investimentos de renda fixa.
+
+Desvantagens
+
+- Baixa liquidez: o dinheiro só pode ser resgatado no vencimento em muitos casos;
+- Rentabilidade pode ser menor que outros títulos dependendo fo prazo e do emissor;
+- Valor mínimo de aplicação costuma ser mais alto que em CDBs.
+
+Exemplo simples
+
+Investimento de R$ 10.000,00 em uma LCI pós-fixada a 95% do CDI com vencimento em 2 anos.
+Se o CDI médio for 10% ao ano, a rentabilidade será aproximadamente 9,5% ao ano, sem desconto
+de imposto de renda, o que torna mais atraente em comparação a CDBs tributáveis.
+
 
 
 
