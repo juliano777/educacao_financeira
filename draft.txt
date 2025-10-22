@@ -1246,12 +1246,118 @@ Vantagens
 - Rentabilidade pode variar conforme o banco e o prazo;
 - Prazo mínimo de carência (geralmente 90 dias por exigência do Banco Central).
 
-🧮 Exemplo simples
+Exemplo simples
 
 Investimento R$ 10.000 em uma LCA a 97% do CDI com vencimento em 2 anos.
 Se o CDI médio for de 10% ao ano, a rentabilidade será 9,7% ao ano, sem imposto de
 renda — o que costuma superar o retorno líquido de um CDB de 110% do CDI (pois esse último é tributado).
 
+
+LCD - Letra de Crédito do Desenvolvimento
+
+A LCD é um título de crédito de renda fixa criado no Brasil pela Lei 14.937/2024, em 26 de julho de 2024, como instrumento para captação de recursos por bancos de desenvolvimento, destinado a financiar o longo-prazo em setores como indústria, infraestrutura, inovação, micro, pequenas e médias empresas. 
+Serviços e Informações do Brasil
++3
+Senado Federal
++3
+Agência Gov
++3
+
+Ela se assemelha às já conhecidas Letra de Crédito Imobiliário (LCI) e Letra de Crédito do Agronegócio (LCA), mas com foco em desenvolvimento industrial, de infraestrutura e inovação. 
+Agência Gov
++1
+
+A emissão é exclusiva para bancos de desenvolvimento autorizados (ex: Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e outros bancos estaduais de fomento) até um limite de captação por instituição. 
+Senado Federal
++1
+
+Como funciona
+
+O banco de desenvolvimento emite uma LCD no mercado de capitais. 
+Agência Gov
++1
+
+Investidores (pessoas físicas ou jurídicas) adquirem essa letra, dando ao banco o recurso captado.
+
+O banco usa esse recurso para financiar projetos de longo prazo nos setores definidos (indústria, infraestrutura, inovação, micro/pequenas empresas). 
+BNDES
++1
+
+O investidor recebe remuneração (que pode ser pré-fixada ou pós-fixada a algum índice, como % do CDI) conforme os termos da emissão. 
+Wikipédia
++1
+
+A letra terá vencimento determinado, e poderá haver negociação no mercado secundário (dependendo da emissão) ou outras formas de liquidez.
+
+Principais características / regras
+
+Emission allowed: cada banco de desenvolvimento pode emitir até R$ 10 bilhões por ano por instituição, segundo a lei. 
+Senado Federal
++1
+
+Benefícios fiscais: para pessoa física residente no Brasil, os rendimentos da LCD são isentos de Imposto de Renda. Para pessoa jurídica, há alíquota reduzida (15%) nas hipóteses previstas. 
+Serviços e Informações do Brasil
++2
+Agência de Notícias BNDES
++2
+
+Garantias e regulamentação: As emissões podem estar cobertas pelo Fundo Garantidor de Créditos (FGC) (dependendo da regulamentação), e o emissor precisa atender a regras específicas de transparência, publicação de relatórios de projetos apoiados. 
+BNDES
++1
+
+Setores-alvo: indústria, comércio, serviços, micro e pequenas empresas, infraestrutura, inovação — ou seja, mais amplo que apenas agronegócio ou imobiliário. 
+Agência Gov
++1
+
+Vantagens
+
+Isenção de IR para pessoa física: torna o rendimento mais apelativo, comparado a títulos tributados.
+
+Apoio ao desenvolvimento econômico: ao investir, o aplicador está, de certa forma, contribuindo para o financiamento de setores estratégicos do país.
+
+Diversificação de renda fixa: essa nova modalidade amplia o leque de opções além de LCI e LCA.
+
+Potencial de rendimento interessante: como o benefício fiscal pode permitir ao emissor oferecer taxas mais competitivas ou condições melhores, o investidor pode conseguir um rendimento líquido melhor dependendo da emissão.
+
+Desvantagens / pontos de atenção
+
+Liquidez: por se tratar de emissão por bancos de desenvolvimento e projetos de longo prazo, pode haver restrições à negociação antes do vencimento ou menor liquidez no mercado secundário.
+
+Prazo: Os projetos são de longo prazo, então o investidor deve estar disposto a manter o investimento até o vencimento ou entender que existe risco de mercado.
+
+Risco de crédito / emissor: Mesmo sendo bancos de desenvolvimento, é importante avaliar o emissor, sua solidez, e os projetos financiados. O risco é menor que investimentos especulativos, mas não é zero.
+
+Condições da emissão: cada emissão pode ter características diferentes em termos de indexador (CDI, Selic, prefixada), prazo, risco, etc. É essencial ler o regulamento da emissão.
+
+Disponibilidade e acessibilidade: por se tratar de um instrumento relativamente novo, nem todas as plataformas ou bancos podem oferecer imediatamente para pessoa física ou de forma ampla.
+
+Exemplificação simples
+
+Suponha que você esteja considerando investir em uma emissão de LCD com as seguintes características hipotéticas: prazo de 3 anos, remuneração de “100% do CDI + 1% a.a.”, e isenção de IR para pessoa física. Se o CDI médio for 10% ao ano, sua rentabilidade bruta seria ~11% ao ano, e como pessoa física você ficaria com ~11% ao ano líquido de IR (considerando isenção). Comparando com outro título tributado, isso pode ser uma vantagem.
+Mas você precisa confirmar:
+
+Qual emissor?
+
+Qual o indexador e a taxa adicional?
+
+A liquidez e se pode negociar antes do vencimento ou se há penalidades.
+
+Qual o risco do emissor e qual a cobertura (FGC ou não).
+
+
+| Característica                  | **LCI** (Letra de Crédito Imobiliário) | **LCA** (Letra de Crédito do Agronegócio) | **LCD** (Letra de Crédito do Desenvolvimento) |
+|----------------------------------|----------------------------------------|--------------------------------------------|-----------------------------------------------|
+| **Finalidade**                   | Financiamento do setor imobiliário     | Financiamento do agronegócio               | Financiamento de projetos de desenvolvimento (indústria, infraestrutura, inovação etc.) |
+| **Emissor**                      | Bancos comerciais                      | Bancos comerciais                          | Bancos de desenvolvimento (ex.: BNDES, bancos estaduais de fomento) |
+| **Rentabilidade**                | Prefixada, pós-fixada (CDI) ou híbrida (IPCA + taxa) | Prefixada, pós-fixada (CDI) ou híbrida (IPCA + taxa) | Prefixada ou pós-fixada (CDI, IPCA etc.) |
+| **Isenção de IR (Pessoa Física)**| ✅ Sim                                 | ✅ Sim                                     | ✅ Sim (Lei 14.937/2024)                     |
+| **Garantia do FGC**              | ✅ Até R$ 250 mil por CPF por instituição | ✅ Até R$ 250 mil por CPF por instituição | ⚠️ A definir conforme regulamentação do emissor (pode não ter FGC) |
+| **Prazo mínimo**                 | 90 dias                                | 90 dias                                   | Definido por cada emissão (geralmente médio/longo prazo) |
+| **Liquidez**                     | Baixa — geralmente só no vencimento    | Baixa — geralmente só no vencimento        | Baixa — foco em financiamento de longo prazo  |
+| **Tributação (PJ)**              | 15% a 22,5% (IR regressivo)            | 15% a 22,5% (IR regressivo)                | 15% (alíquota reduzida, conforme lei)        |
+| **Destino dos recursos**         | Construção, compra e reforma de imóveis | Produção, armazenagem e exportação agrícola | Indústria, infraestrutura, inovação, MPMEs   |
+| **Criação legal**                | Lei nº 10.931/2004                     | Lei nº 11.076/2004                         | Lei nº 14.937/2024                           |
+| **Público-alvo**                 | Investidores de renda fixa conservadores | Investidores de renda fixa conservadores   | Investidores que buscam apoiar o desenvolvimento econômico |
 
 
 
