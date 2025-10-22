@@ -1172,6 +1172,18 @@ RLR = 0,03855 . (1 - 0,05) = 0,03855 . 0,95 = 0,02931225 = 2,931225%
 
 Caso II 
 
+Renda fixa de investimento híbrido.
+CDB cujo rendimento é baseado no IPCA + taxa pré-fixada.
+
+IPCA = 5%
+Taxa pré-fixada = 2%
+IR = 17,5%
+
+RBN = IPCA + Taxa pré-fixada = 7%
+RLN = RBN . (1 - Impostos) = 0,07 . (1 = 0,175) = 0,07 . 0,825 = 0,05775 = 5,775%
+
+Aqui nãohá necessidade de calcular o RLR, pois a inflação já foi considerada.
+
 
 
 
