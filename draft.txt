@@ -1220,6 +1220,38 @@ Se o CDI médio for 10% ao ano, a rentabilidade será aproximadamente 9,5% ao an
 de imposto de renda, o que torna mais atraente em comparação a CDBs tributáveis.
 
 
+LCA - Letra de Crédito de Agronegócio
+
+Como a LCI é também um título de renda fixa emitido por bancos, porém para financiar o setor
+de agronegócio, tais como empresas do ramo agrícola, produtores rurais e cooperativas.
+
+Como funciona
+
+Igual ao de uma LCI, porém para fins agrícolas.
+
+Tipos de rentabilidade
+
+Também igual ao modelo das LCIs.
+
+Vantagens
+
+- Para pessoas físicas há isenção de imposto de renda;
+- Garantia do FGC (Fundo Garantidor de Créditos) até R$ 250 mil por CPF por instituição;
+- Segurança e baixo risco, já que é emitida por bancos e lastreada em créditos do agronegócio;
+- Pode render mais que o CDB líquido, já que não há desconto de IR.
+
+- Desvantagens
+
+- Liquidez limitada — geralmente o resgate é somente no vencimento;
+- Rentabilidade pode variar conforme o banco e o prazo;
+- Prazo mínimo de carência (geralmente 90 dias por exigência do Banco Central).
+
+🧮 Exemplo simples
+
+Investimento R$ 10.000 em uma LCA a 97% do CDI com vencimento em 2 anos.
+Se o CDI médio for de 10% ao ano, a rentabilidade será 9,7% ao ano, sem imposto de
+renda — o que costuma superar o retorno líquido de um CDB de 110% do CDI (pois esse último é tributado).
+
 
 
 
