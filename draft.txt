@@ -1346,7 +1346,7 @@ Mas é preciso confirmar:
 - Qual o risco do emissor e qual a cobertura (FGC ou não).
 
 
-| Característica                  | **LCI** (Letra de Crédito Imobiliário)                | **LCA** (Letra de Crédito do Agronegócio)            | **LCD** (Letra de Crédito do Desenvolvimento)                                           |
+| Característica                   | **LCI** (Letra de Crédito Imobiliário)               | **LCA** (Letra de Crédito do Agronegócio)            | **LCD** (Letra de Crédito do Desenvolvimento)                                           |
 |----------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | **Finalidade**                   | Financiamento do setor imobiliário                   | Financiamento do agronegócio                         | Financiamento de projetos de desenvolvimento (indústria, infraestrutura, inovação etc.) |
 | **Emissor**                      | Bancos comerciais                                    | Bancos comerciais                                    | Bancos de desenvolvimento (ex.: BNDES, bancos estaduais de fomento)                     |
