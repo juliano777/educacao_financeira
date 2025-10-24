@@ -1236,113 +1236,114 @@ Também igual ao modelo das LCIs.
 Vantagens
 
 - Para pessoas físicas há isenção de imposto de renda;
-- Garantia do FGC (Fundo Garantidor de Créditos) até R$ 250 mil por CPF por instituição;
-- Segurança e baixo risco, já que é emitida por bancos e lastreada em créditos do agronegócio;
+- Garantia do FGC (Fundo Garantidor de Créditos) até R$ 250 mil por CPF por
+  instituição;
+- Segurança e baixo risco, já que é emitida por bancos e lastreada em créditos
+  do agronegócio;
 - Pode render mais que o CDB líquido, já que não há desconto de IR.
 
 - Desvantagens
 
 - Liquidez limitada — geralmente o resgate é somente no vencimento;
 - Rentabilidade pode variar conforme o banco e o prazo;
-- Prazo mínimo de carência (geralmente 90 dias por exigência do Banco Central).
+- Prazo mínimo de carência (geralmente 90 dias por exigência do Banco
+  Central).
 
 Exemplo simples
 
 Investimento R$ 10.000 em uma LCA a 97% do CDI com vencimento em 2 anos.
-Se o CDI médio for de 10% ao ano, a rentabilidade será 9,7% ao ano, sem imposto de
-renda — o que costuma superar o retorno líquido de um CDB de 110% do CDI (pois esse último é tributado).
+Se o CDI médio for de 10% ao ano, a rentabilidade será 9,7% ao ano, sem
+imposto de renda — o que costuma superar o retorno líquido de um CDB de 110%
+do CDI (pois esse último é tributado).
 
 
 LCD - Letra de Crédito do Desenvolvimento
 
-A LCD é um título de crédito de renda fixa criado no Brasil pela Lei 14.937/2024, em 26 de julho de 2024, como instrumento para captação de recursos por bancos de desenvolvimento, destinado a financiar o longo-prazo em setores como indústria, infraestrutura, inovação, micro, pequenas e médias empresas. 
-Serviços e Informações do Brasil
-+3
-Senado Federal
-+3
-Agência Gov
-+3
-
-Ela se assemelha às já conhecidas Letra de Crédito Imobiliário (LCI) e Letra de Crédito do Agronegócio (LCA), mas com foco em desenvolvimento industrial, de infraestrutura e inovação. 
-Agência Gov
-+1
-
-A emissão é exclusiva para bancos de desenvolvimento autorizados (ex: Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e outros bancos estaduais de fomento) até um limite de captação por instituição. 
-Senado Federal
-+1
+É um título de crédito de renda fixa criado pela lei 14.937/2024, em 26 de
+julho de 2024, para captação de recursos por bancos de desenvolvimento, para a
+longo prazo financiar setores como inovação, indústria, empresas (micro,
+pequenas e médio portes).
+Por ser também uma letra de crédito se assemelha à LCI e à LCA, tendo seu foco
+no desenvolvimento industrial, de infraestrutura e inovação.
+Sua emissão é exclusivamente feita para bancos de desenvolvimento autorizados,
+tais como Banco Nacional de Desenvolvimento e Social (BNDES) e outros bancos
+estaduais de fomento, sendo limitado a uma captação por instituição.
 
 Como funciona
 
-O banco de desenvolvimento emite uma LCD no mercado de capitais. 
-Agência Gov
-+1
+O LCD é emitido pelo banco de desenvolvimento no mercado de capitais.
+Essa letra é adquirida por investidores (pessoas físicas ou jurídicas), dando
+ao banco o recurso captado.
+Esse recurso é então usado pelo banco para financiar projetos de longo prazo
+nos setores definidos (infraestrutura, indústria, micro / pequenas empresas,
+inovação),
+Conforme os termos da emissão o investidor recebe remuneração (que pode ser
+pré-fixada ou pós-fixada a algum índice, como % do CDI).
+A letra terá vencimento determinado, e poderá haver negociação no mercado
+secundário (dependendo da emissão) ou outras formas de liquidez.
 
-Investidores (pessoas físicas ou jurídicas) adquirem essa letra, dando ao banco o recurso captado.
 
-O banco usa esse recurso para financiar projetos de longo prazo nos setores definidos (indústria, infraestrutura, inovação, micro/pequenas empresas). 
-BNDES
-+1
+Principais características e regras
 
-O investidor recebe remuneração (que pode ser pré-fixada ou pós-fixada a algum índice, como % do CDI) conforme os termos da emissão. 
-Wikipédia
-+1
-
-A letra terá vencimento determinado, e poderá haver negociação no mercado secundário (dependendo da emissão) ou outras formas de liquidez.
-
-Principais características / regras
-
-Emission allowed: cada banco de desenvolvimento pode emitir até R$ 10 bilhões por ano por instituição, segundo a lei. 
-Senado Federal
-+1
-
-Benefícios fiscais: para pessoa física residente no Brasil, os rendimentos da LCD são isentos de Imposto de Renda. Para pessoa jurídica, há alíquota reduzida (15%) nas hipóteses previstas. 
-Serviços e Informações do Brasil
-+2
-Agência de Notícias BNDES
-+2
-
-Garantias e regulamentação: As emissões podem estar cobertas pelo Fundo Garantidor de Créditos (FGC) (dependendo da regulamentação), e o emissor precisa atender a regras específicas de transparência, publicação de relatórios de projetos apoiados. 
-BNDES
-+1
-
-Setores-alvo: indústria, comércio, serviços, micro e pequenas empresas, infraestrutura, inovação — ou seja, mais amplo que apenas agronegócio ou imobiliário. 
-Agência Gov
-+1
+- Benefícios fiscais: os rendimentos da LCD têm isenção de imposto de renda
+  para pessoa física residente no Brasil.
+  Há alíquota reduzida para pessoa jurídica (15%);
+- Emission allowed: segundo a lei, cada banco de desenvolvimento pode emitir
+  até R$ 10 bilhões por ano por instituição;
+- Setores-alvo: micro / pequenas empresas, indústria, comércio, serviços,
+  infraestrutura - tem maior amplitude do que imobiliário ou agronegócio;
+- Garantias e regulamentação: dependendo da regulamentação as emissões podem
+  estar cobertas pelo FGC e é preciso que o emissor atenda a regras
+  específicas de transparência, publicação de relatórios de projetos apoiados.
 
 Vantagens
 
-Isenção de IR para pessoa física: torna o rendimento mais apelativo, comparado a títulos tributados.
+- Diversificação de renda fixa: amplia-se o leque de opções além de LCI e LCA;
+- Isenção de IR para pessoa física: torna o rendimento mais atraente,
+  comparado a títulos tributados;
+- Potencial de rendimento interessante: o emissor pode oferecdr taxas
+  competitivas ou condições melhores devido ao benefício fiscal, assim o
+  investidor pode pode conseguir um rendimento líquido melhor dependendo da
+  emissão;
+- Apoio ao desenvolvimento econômico: ao investir, o aplicador está
+  contribuindo para o financiamento de setores estratégicos do país.
 
-Apoio ao desenvolvimento econômico: ao investir, o aplicador está, de certa forma, contribuindo para o financiamento de setores estratégicos do país.
+Desvantagens
 
-Diversificação de renda fixa: essa nova modalidade amplia o leque de opções além de LCI e LCA.
+- Liquidez: pode haver restrições à negociação antes do vencimento ou menor
+  liquidez no mercado secundário por se tratar de emissão por bancos de
+  desenvolvimento e projetos de longo prazo;
+- Disponibilidade e acessibilidade: nem todas as plataformas ou bancos podem
+  oferecer imediatamente para pessoa física ou de forma ampla por ser um
+  instrumento relativamente novo
+- Risco de crédito / emissor: o risco é menor que investimentos especulativos,
+  mas não é zero.
+  Mesmo sendo bancos de desenvolvimento, é importante avaliar o emissor, sua
+  solidez, e os projetos financiados.
+- Condições da emissão: é essencial ler o regulamento da emissão, pois cada
+  emissão pode ter características diferentes em termos de indexador (CDI,
+  Selic, prefixada), prazo, risco, etc;
 
-Potencial de rendimento interessante: como o benefício fiscal pode permitir ao emissor oferecer taxas mais competitivas ou condições melhores, o investidor pode conseguir um rendimento líquido melhor dependendo da emissão.
+- Prazo: o investidor deve estar disposto a manter o investimento até o
+  vencimento ou entender que existe risco de mercado, pois os projetos são de
+  longo prazo.
 
-Desvantagens / pontos de atenção
-
-Liquidez: por se tratar de emissão por bancos de desenvolvimento e projetos de longo prazo, pode haver restrições à negociação antes do vencimento ou menor liquidez no mercado secundário.
-
-Prazo: Os projetos são de longo prazo, então o investidor deve estar disposto a manter o investimento até o vencimento ou entender que existe risco de mercado.
-
-Risco de crédito / emissor: Mesmo sendo bancos de desenvolvimento, é importante avaliar o emissor, sua solidez, e os projetos financiados. O risco é menor que investimentos especulativos, mas não é zero.
-
-Condições da emissão: cada emissão pode ter características diferentes em termos de indexador (CDI, Selic, prefixada), prazo, risco, etc. É essencial ler o regulamento da emissão.
-
-Disponibilidade e acessibilidade: por se tratar de um instrumento relativamente novo, nem todas as plataformas ou bancos podem oferecer imediatamente para pessoa física ou de forma ampla.
 
 Exemplificação simples
 
-Suponha que você esteja considerando investir em uma emissão de LCD com as seguintes características hipotéticas: prazo de 3 anos, remuneração de “100% do CDI + 1% a.a.”, e isenção de IR para pessoa física. Se o CDI médio for 10% ao ano, sua rentabilidade bruta seria ~11% ao ano, e como pessoa física você ficaria com ~11% ao ano líquido de IR (considerando isenção). Comparando com outro título tributado, isso pode ser uma vantagem.
-Mas você precisa confirmar:
+Suponha que você esteja considerando investir em uma emissão de LCD com as
+seguintes características hipotéticas: prazo de 3 anos, remuneração de “100%
+do CDI + 1% a.a.”, e isenção de IR para pessoa física.
+Se o CDI médio for 10% ao ano, sua rentabilidade bruta seria ~11% ao ano, e
+como pessoa física você ficaria com ~11% ao ano líquido de IR (considerando
+isenção). Comparando com outro título tributado, isso pode ser uma vantagem.
 
-Qual emissor?
+Mas é preciso confirmar:
 
-Qual o indexador e a taxa adicional?
-
-A liquidez e se pode negociar antes do vencimento ou se há penalidades.
-
-Qual o risco do emissor e qual a cobertura (FGC ou não).
+- Qual emissor?
+- Qual o indexador e a taxa adicional?
+- A liquidez e se pode negociar antes do vencimento ou se há penalidades.
+- Qual o risco do emissor e qual a cobertura (FGC ou não).
 
 
 | Característica                  | **LCI** (Letra de Crédito Imobiliário) | **LCA** (Letra de Crédito do Agronegócio) | **LCD** (Letra de Crédito do Desenvolvimento) |
@@ -1358,17 +1359,6 @@ Qual o risco do emissor e qual a cobertura (FGC ou não).
 | **Destino dos recursos**         | Construção, compra e reforma de imóveis | Produção, armazenagem e exportação agrícola | Indústria, infraestrutura, inovação, MPMEs   |
 | **Criação legal**                | Lei nº 10.931/2004                     | Lei nº 11.076/2004                         | Lei nº 14.937/2024                           |
 | **Público-alvo**                 | Investidores de renda fixa conservadores | Investidores de renda fixa conservadores   | Investidores que buscam apoiar o desenvolvimento econômico |
-
-
-
-
-
-
-
-
-
-
-
 
 
 
