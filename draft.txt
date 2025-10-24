@@ -1359,6 +1359,72 @@ Mas é preciso confirmar:
 | **Público-alvo**                 | Investidores de renda fixa conservadores             | Investidores de renda fixa conservadores             | Investidores que buscam apoiar o desenvolvimento econômico                              |
 
 
+CDB vs LCI / LCA - Qual rende mais?
+
+Pontos principais (resumido)
+
+- CDB: rendimento normalmente informado como % do CDI; sofre imposto de renda
+  na fonte pela tabela regressiva (22,5% → 15% dependendo do prazo);
+- LCI / LCA: para pessoa física, são isentas de IR (o que aumenta a
+  rentabilidade líquida).
+  Atenção!!!: há propostas/MPs que discutem mudar regras, então vale confirmar
+  a situação legal antes de investir.
+- Garantia / risco: tanto CDBs quanto LCIs/LCAs emitidos por bancos costumam
+  entrar na cobertura do FGC (até R$250.000 por CPF por instituição — limite e
+  regras aplicáveis).
+- Liquidez: CDBs podem ter liquidez diária (depende do produto); LCIs/LCAs
+  frequentemente exigem prazo mínimo e têm menos liquidez (resgate somente no
+  vencimento, em muitos casos). Verifique a condição do título.
+
+Tabela comparativa
+
+| Característica         | CDB                                            | LCI / LCA                            |
+|------------------------|------------------------------------------------|--------------------------------------|
+| Tributação (PF)        | Incide IR pela tabela regressiva (22,5% → 15%) | Em regra: isento de IR (PF) — confirmar situação legal |
+| Rentabilidade típica   | % do CDI (pode ser pré ou pós)                 | % do CDI ou prefixado; geralmente menor nominal, mas líquida pode ser maior por isenção |
+| Liquidez               | Pode ter liquidez diária (depende do produto)            | Geralmente carência / resgate só no vencimento |
+| Garantia               | Cobertura do FGC (até R$250.000 por CPF por instituição) | Cobertura do FGC (mesma regra)      |
+| Risco de crédito       | Exposto ao banco emissor (FGC cobre até o limite) | Mesmo (exposição ao banco emissor)  |
+| Ideal para             | Prazo variável; quem precisa de liquidez ou taxas altas negociadas | Quem busca rendimento líquido (isento de IR) e não precisa de liquidez |
+
+Tabela com exemplo numérico (ponto de equilíbrio)
+
+Explico rápido: se uma LCI rende y_LCI (por exemplo 85% do CDI) e um CDB rende
+y_CDB (por exemplo 100% do CDI), o CDB líquido será y_CDB * (1 - IR). Para o
+CDB empatar com a LCI:
+
+y_CDB = y_LCI / (1 - IR)
+
+Abaixo, supondo LCI = 85% do CDI, calculei qual % do CDI o CDB precisa pagar
+para ficar igual depois do IR, em diferentes alíquotas da tabela regressiva:
+
+| Alíquota IR (CDB) | Fator (1 - IR) | Ponto de equilíbrio (CDB ≡ LCI) |
+|-------------------|----------------|---------------------------------|
+| 22,5%             | 0,775          | 109,6774% do CDI                |
+| 20%               | 0,80           | 106,25% do CDI                  |
+| 17,5%             | 0,825          | 103,0303% do CDI                |
+| 15%               | 0,85           | 100,00% do CDI                  |
+
+(Ex.: se você está no faixa de IR de 15% — aplicações com prazo >720 dias — 1
+CDB pagando 100% do CDI rende o mesmo que uma LCI pagando 85% do CDI, porque
+100% × (1 − 0,15) = 85% do CDI líquido.)
+
+Conclusão prática — qual rende mais?
+
+Se a LCI/LCA for isenta (regra atual para a maioria das emissões para PF),
+ela costuma ser vantajosa quando comparada a um CDB que pague uma taxa nominal
+parecida, porque o rendimento da LCI é líquido (não sofre IR).
+Em prazos médios é comum LCI pagar uma % do CDI menor que um CDB bruto, mas
+ainda assim sair na frente por não ter IR.
+
+Se o CDB pagar muito acima do CDI (por exemplo >110% do CDI) pode superar a
+LCI mesmo descontado o IR — depende do prazo (alíquota IR aplicada) e números
+exatos. Use a fórmula y_CDB = y_LCI / (1 - IR) para comparar rapidamente.
+
+
+Atenção: há discussões legislativas sobre tributação de LCI/LCA — mudanças
+podem ocorrer e afetar a vantagem da isenção. Sempre confirme a regulamentação
+vigente antes de decidir.
 
 
   -------------------------------caderno------------------
