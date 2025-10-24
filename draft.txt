@@ -1282,7 +1282,6 @@ pré-fixada ou pós-fixada a algum índice, como % do CDI).
 A letra terá vencimento determinado, e poderá haver negociação no mercado
 secundário (dependendo da emissão) ou outras formas de liquidez.
 
-
 Principais características e regras
 
 - Benefícios fiscais: os rendimentos da LCD têm isenção de imposto de renda
@@ -1327,7 +1326,6 @@ Desvantagens
 - Prazo: o investidor deve estar disposto a manter o investimento até o
   vencimento ou entender que existe risco de mercado, pois os projetos são de
   longo prazo.
-
 
 Exemplificação simples
 
