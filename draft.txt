@@ -1338,9 +1338,9 @@ isenção). Comparando com outro título tributado, isso pode ser uma vantagem.
 
 Mas é preciso confirmar:
 
-- Qual emissor?
-- Qual o indexador e a taxa adicional?
-- A liquidez e se pode negociar antes do vencimento ou se há penalidades.
+- Emissor;
+- Indexador e / ou taxa adicional;
+- A liquidez e se pode negociar antes do vencimento ou se há penalidades;
 - Qual o risco do emissor e qual a cobertura (FGC ou não).
 
 
