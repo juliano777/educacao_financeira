@@ -1346,19 +1346,19 @@ Mas é preciso confirmar:
 - Qual o risco do emissor e qual a cobertura (FGC ou não).
 
 
-| Característica                  | **LCI** (Letra de Crédito Imobiliário) | **LCA** (Letra de Crédito do Agronegócio) | **LCD** (Letra de Crédito do Desenvolvimento) |
-|----------------------------------|----------------------------------------|--------------------------------------------|-----------------------------------------------|
-| **Finalidade**                   | Financiamento do setor imobiliário     | Financiamento do agronegócio               | Financiamento de projetos de desenvolvimento (indústria, infraestrutura, inovação etc.) |
-| **Emissor**                      | Bancos comerciais                      | Bancos comerciais                          | Bancos de desenvolvimento (ex.: BNDES, bancos estaduais de fomento) |
-| **Rentabilidade**                | Prefixada, pós-fixada (CDI) ou híbrida (IPCA + taxa) | Prefixada, pós-fixada (CDI) ou híbrida (IPCA + taxa) | Prefixada ou pós-fixada (CDI, IPCA etc.) |
-| **Isenção de IR (Pessoa Física)**| ✅ Sim                                 | ✅ Sim                                     | ✅ Sim (Lei 14.937/2024)                     |
-| **Garantia do FGC**              | ✅ Até R$ 250 mil por CPF por instituição | ✅ Até R$ 250 mil por CPF por instituição | ⚠️ A definir conforme regulamentação do emissor (pode não ter FGC) |
-| **Prazo mínimo**                 | 90 dias                                | 90 dias                                   | Definido por cada emissão (geralmente médio/longo prazo) |
-| **Liquidez**                     | Baixa — geralmente só no vencimento    | Baixa — geralmente só no vencimento        | Baixa — foco em financiamento de longo prazo  |
-| **Tributação (PJ)**              | 15% a 22,5% (IR regressivo)            | 15% a 22,5% (IR regressivo)                | 15% (alíquota reduzida, conforme lei)        |
-| **Destino dos recursos**         | Construção, compra e reforma de imóveis | Produção, armazenagem e exportação agrícola | Indústria, infraestrutura, inovação, MPMEs   |
-| **Criação legal**                | Lei nº 10.931/2004                     | Lei nº 11.076/2004                         | Lei nº 14.937/2024                           |
-| **Público-alvo**                 | Investidores de renda fixa conservadores | Investidores de renda fixa conservadores   | Investidores que buscam apoiar o desenvolvimento econômico |
+| Característica                  | **LCI** (Letra de Crédito Imobiliário)                | **LCA** (Letra de Crédito do Agronegócio)            | **LCD** (Letra de Crédito do Desenvolvimento)                                           |
+|----------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Finalidade**                   | Financiamento do setor imobiliário                   | Financiamento do agronegócio                         | Financiamento de projetos de desenvolvimento (indústria, infraestrutura, inovação etc.) |
+| **Emissor**                      | Bancos comerciais                                    | Bancos comerciais                                    | Bancos de desenvolvimento (ex.: BNDES, bancos estaduais de fomento)                     |
+| **Rentabilidade**                | Prefixada, pós-fixada (CDI) ou híbrida (IPCA + taxa) | Prefixada, pós-fixada (CDI) ou híbrida (IPCA + taxa) | Prefixada ou pós-fixada (CDI, IPCA etc.)                                                |
+| **Isenção de IR (Pessoa Física)**| ✅ Sim                                               | ✅ Sim                                               | ✅ Sim (Lei 14.937/2024)                                                               |
+| **Garantia do FGC**              | ✅ Até R$ 250 mil por CPF por instituição            | ✅ Até R$ 250 mil por CPF por instituição            | ⚠️ A definir conforme regulamentação do emissor (pode não ter FGC)                     |
+| **Prazo mínimo**                 | 90 dias                                              | 90 dias                                              | Definido por cada emissão (geralmente médio/longo prazo)                                |
+| **Liquidez**                     | Baixa — geralmente só no vencimento                  | Baixa — geralmente só no vencimento                  | Baixa — foco em financiamento de longo prazo                                            |
+| **Tributação (PJ)**              | 15% a 22,5% (IR regressivo)                          | 15% a 22,5% (IR regressivo)                          | 15% (alíquota reduzida, conforme lei)                                                   |
+| **Destino dos recursos**         | Construção, compra e reforma de imóveis              | Produção, armazenagem e exportação agrícola          | Indústria, infraestrutura, inovação, MPMEs                                              |
+| **Criação legal**                | Lei nº 10.931/2004                                   | Lei nº 11.076/2004                                   | Lei nº 14.937/2024                                                                      |
+| **Público-alvo**                 | Investidores de renda fixa conservadores             | Investidores de renda fixa conservadores             | Investidores que buscam apoiar o desenvolvimento econômico                              |
 
 
 
